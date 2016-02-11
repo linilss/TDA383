@@ -1,10 +1,18 @@
 import TSim.*;
 import java.lang.*;
 import java.util.*;
-import java.util.concurrent.locks;
+import java.util.concurrent.locks.*;
 
 
 public class Train extends Thread {
+
+	static TrainMonitor upperMainTrack = new TrainMonitor();
+	static TrainMonitor crossing = new TrainMonitor();
+	static TrainMonitor sharedUpper = new TrainMonitor();
+	static TrainMonitor sharedDual = new TrainMonitor();
+	static TrainMonitor sharedLower = new TrainMonitor();
+	static TrainMonitor lowerMainTrack = new TrainMonitor();
+
 	TSimInterface tsi;
 	int id;
 	int speed;
@@ -40,6 +48,7 @@ public class Train extends Thread {
 	}
 
 	public void makeSwitch(boolean toLeft, int switchX, int switchY) {
+		System.out.println("makeswitch1");
 		try {
 			if(toLeft)
 				tsi.setSwitch(switchX, switchY, tsi.SWITCH_LEFT);
@@ -52,19 +61,20 @@ public class Train extends Thread {
 
 	}
 	public void makeSwitch(boolean toLeft, int switchX, int switchY,
-					Semaphore toRelease, boolean releaseFromLeft) {
+					TrainMonitor toleave, boolean leaveFromLeft) {
+		System.out.println("makeSwitch2");
 		try {
 				if(toLeft) {
 					tsi.setSwitch(switchX, switchY, tsi.SWITCH_LEFT);
 
-					if(releaseFromLeft){
-						toRelease.release();
+					if(leaveFromLeft){
+						toleave.leave();
 					}
 				}
 				else {
 					tsi.setSwitch(switchX, switchY, tsi.SWITCH_RIGHT);	
-					if(!releaseFromLeft) {
-						toRelease.release();
+					if(!leaveFromLeft) {
+						toleave.leave();
 					}
 
 				}
@@ -73,10 +83,11 @@ public class Train extends Thread {
 		}
 	}
 
-	public void wait(Semaphore s) {
+	public void wait(TrainMonitor s) {
+		System.out.println("wait");
 		try {
 			tsi.setSpeed(id, 0);
-			s.acquire();
+			s.enter();
 			tsi.setSpeed(id, speed);
 
 		}catch(InterruptedException e) {
@@ -85,25 +96,28 @@ public class Train extends Thread {
 			e.printStackTrace();
 		}
 	}
-	public void waitAndSwitch(Semaphore s, int switchX, int switchY, 
-				boolean toLeft, Semaphore toRelease, boolean leftOrRight) {
+	public void waitAndSwitch(TrainMonitor s, int switchX, int switchY, 
+				boolean toLeft, TrainMonitor toleave, boolean leftOrRight) {
+		System.out.println("waitAndSwitch");
+
 		try {
 			tsi.setSpeed(id, 0);
-			s.acquire();
+
+			s.enter();
 			tsi.setSpeed(id, speed);
 
 				if(toLeft) {
 					tsi.setSwitch(switchX, switchY, tsi.SWITCH_LEFT);
 					
 					if(leftOrRight) {
-						toRelease.release();
+						toleave.leave();
 					}
 				}
 				else {
 					tsi.setSwitch(switchX, switchY, tsi.SWITCH_RIGHT);	
 
 					if(!leftOrRight) {
-						toRelease.release();	
+						toleave.leave();	
 					}
 				}
 		}catch(InterruptedException e) {
@@ -132,16 +146,16 @@ public class Train extends Thread {
 					switch(x){
 						case 1:
 							if(up){
-								makeSwitch(sharedDual.tryAcquire(), 4,9);
+								makeSwitch(sharedDual.tryEnter(), 4,9);
 							}
 							else { 
-								makeSwitch(lowerMainTrack.tryAcquire(), 3,11);
+								makeSwitch(lowerMainTrack.tryEnter(), 3,11);
 							}
 							break;
 
 						case 4:
 							if(up && (y == 13)){
-								if(!sharedLower.tryAcquire()) {
+								if(!sharedLower.tryEnter()) {
 									wait(sharedLower);
 								}
 								tsi.setSwitch(3,11, tsi.SWITCH_RIGHT);
@@ -150,14 +164,14 @@ public class Train extends Thread {
 						case 6:
 							if(y == 6) {
 								if(!up) {
-									if(!crossing.tryAcquire()) {
+									if(!crossing.tryEnter()) {
 										wait(crossing);
 									}
 								}
 							}
 							else {
 								if(up){
-									if(sharedLower.tryAcquire()) {
+									if(sharedLower.tryEnter()) {
 										makeSwitch((y==11), 3, 11, lowerMainTrack, fromLeft);
 									}
 									else {
@@ -170,7 +184,7 @@ public class Train extends Thread {
 
 						case 7:
 							if(!up && (y >7)) {
-								if(sharedLower.tryAcquire()) {
+								if(sharedLower.tryEnter()) {
 									makeSwitch((y==9), 4, 9, sharedDual, fromLeft);
 								}
 								else{
@@ -181,19 +195,19 @@ public class Train extends Thread {
 
 						case 9:
 							if(!up && (y == 5)) {
-								if(!crossing.tryAcquire()) {
+								if(!crossing.tryEnter()) {
 									wait(crossing);
 								}
 							}
 							break;
 
 						case 10:
-							if(up && !crossing.tryAcquire()) {
+							if(up && !crossing.tryEnter()) {
 								wait(crossing);
 							}
 							break;
 						case 11:
-							if(up && !crossing.tryAcquire()) {
+							if(up && !crossing.tryEnter()) {
 								wait(crossing);
 							}
 							break;
@@ -201,7 +215,8 @@ public class Train extends Thread {
 						case 12:
 
 							if(up) {
-								if(sharedUpper.tryAcquire()){
+								System.out.print("sharedupper: " + sharedUpper.getStatus());
+								if(sharedUpper.tryEnter()){
 									makeSwitch((y==10), 15, 9, sharedDual, fromRight);
 								}
 								else {
@@ -213,7 +228,7 @@ public class Train extends Thread {
 						case 14:
 							if(y != 9) {
 								if(!up) {
-									if(sharedUpper.tryAcquire()) {
+									if(sharedUpper.tryEnter()) {
 										makeSwitch(y==8, 17, 7, upperMainTrack, fromRight);
 									}
 									else{
@@ -235,10 +250,10 @@ public class Train extends Thread {
 
 						case 19:
 							if(up) {
-								makeSwitch(!upperMainTrack.tryAcquire(), 17,7);							
+								makeSwitch(!upperMainTrack.tryEnter(), 17,7);							
 							}
 							else {
-								makeSwitch(!sharedDual.tryAcquire(), 15,9);
+								makeSwitch(!sharedDual.tryEnter(), 15,9);
 							}
 							break;
 					}
@@ -247,58 +262,58 @@ public class Train extends Thread {
 					switch(x) {
 						case 3:
 							if(!up &&(y == 12)) {
-								sharedLower.release();
+								sharedLower.leave();
 							}
 						break;
 						case 4: 
 							if(up && (y == 10)) {
-								sharedLower.release();
+								sharedLower.leave();
 							}
 							else if(!up && (y == 11)) {
-								sharedLower.release();
+								sharedLower.leave();
 							}
 						break;
 						case 5:
 						 	if(up && (y == 9)) {
-						 		sharedLower.release();
+						 		sharedLower.leave();
 						 	}
 						 break;
 						 case 7:
 						 	if(up && (y == 7)) {
-						 		crossing.release();
+						 		crossing.leave();
 						 	}
 						 break;
 						 case 8:
 						 	if(up && (y == 6)) {
-						 		crossing.release();
+						 		crossing.leave();
 						 	}
 						 	else if(!up && (y == 8)) {
-						 		crossing.release();
+						 		crossing.leave();
 						 	}
 						 break;
 						 case 9:
 						 	if(!up && (y == 7)) {
-						 		crossing.release();
+						 		crossing.leave();
 						 	}
 						 break;
 						 case 14:
 						 	if(!up && (y == 9)) {
-						 		sharedUpper.release();
+						 		sharedUpper.leave();
 						 	}
 						 break;
 						 case 15:
  						 	if(!up && (y == 10)) {
- 						 		sharedUpper.release();
+ 						 		sharedUpper.leave();
  						 	}
 						 break;
 						 case 16:
 						 	if(up && (y == 7)) {
-						 		sharedUpper.release();
+						 		sharedUpper.leave();
 						 	}
 						 break;
 						 case 17:
 						 	if(up && (y == 8)) {
-						 		sharedUpper.release();
+						 		sharedUpper.leave();
 						 	}
 						 break;
 					}
@@ -311,25 +326,6 @@ public class Train extends Thread {
 			}
 
 		}
-	}
-}	
-
-public class trainMonitor {
-
-	private final Lock lock = new ReentrantLock();
-	private final Condition okToEnter = lock.newCondition();
-
-	public void enter() {
-
-	}
-
-	public void leave() {
-
-	}
-
-	public void tryEnter() {
-
-	}
-
-
+	}	
 }
+

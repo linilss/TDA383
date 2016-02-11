@@ -1,8 +1,8 @@
 import TSim.*;
 
-public class Lab1 {
+public class Lab2 {
 
-  public Lab1(Integer speed1, Integer speed2) {
+  public Lab2(Integer speed1, Integer speed2) {
     TSimInterface tsi = TSimInterface.getInstance();
     System.out.println("sss");
 
