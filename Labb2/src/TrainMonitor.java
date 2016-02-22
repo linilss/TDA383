@@ -15,35 +15,34 @@ class TrainMonitor {
 			isClear = true;
 		}finally {
 			lock.unlock();
-
-		System.out.println("enter");
 		}
 	}
 
-	public void leave() {
+	public void leave() throws InterruptedException {
 		lock.lock();
-		isClear = true;
-		System.out.println("lämnar");
-		cond.signal();
-		lock.unlock();
+		try {
+			isClear = true;
+			cond.signal();
+		}finally {
+			lock.unlock();
+		}
 	}
 
 	public boolean tryEnter() throws InterruptedException {
 		lock.lock();
-		System.out.println(" & " + isClear);
-		if(isClear) {		
-			isClear = false; 
-			lock.unlock();
-			return true;
-		}
-		else {
-			lock.unlock();
-			return false;
-		}
-	}
-	public boolean getStatus() {
-		return isClear;
-	}
+		try {
+			private retVal;
 
-
+			if(isClear) {	
+				isClear = false; 
+				retVal = true;
+			}
+			else {
+				retVal = false;
+			}
+		}finally {	
+			lock.unlock();
+		}
+		return retVal;
+	}
 }
