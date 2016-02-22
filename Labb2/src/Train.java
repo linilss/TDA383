@@ -48,7 +48,6 @@ public class Train extends Thread {
 	}
 
 	public void makeSwitch(boolean toLeft, int switchX, int switchY) {
-		System.out.println("makeswitch1");
 		try {
 			if(toLeft)
 				tsi.setSwitch(switchX, switchY, tsi.SWITCH_LEFT);
@@ -62,7 +61,6 @@ public class Train extends Thread {
 	}
 	public void makeSwitch(boolean toLeft, int switchX, int switchY,
 					TrainMonitor toleave, boolean leaveFromLeft) {
-		System.out.println("makeSwitch2");
 		try {
 				if(toLeft) {
 					tsi.setSwitch(switchX, switchY, tsi.SWITCH_LEFT);
@@ -84,7 +82,6 @@ public class Train extends Thread {
 	}
 
 	public void wait(TrainMonitor s) {
-		System.out.println("wait");
 		try {
 			tsi.setSpeed(id, 0);
 			s.enter();
@@ -98,8 +95,6 @@ public class Train extends Thread {
 	}
 	public void waitAndSwitch(TrainMonitor s, int switchX, int switchY, 
 				boolean toLeft, TrainMonitor toleave, boolean leftOrRight) {
-		System.out.println("waitAndSwitch");
-
 		try {
 			tsi.setSpeed(id, 0);
 
@@ -215,7 +210,6 @@ public class Train extends Thread {
 						case 12:
 
 							if(up) {
-								System.out.print("sharedupper: " + sharedUpper.getStatus());
 								if(sharedUpper.tryEnter()){
 									makeSwitch((y==10), 15, 9, sharedDual, fromRight);
 								}
