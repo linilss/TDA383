@@ -1,0 +1,5009 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.2.11)  17 FEB 2016 14:30
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**/home/linus/Projekt/TDA383/cchat/gui.erl
+(/home/linus/Projekt/TDA383/cchat/gui.erl
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 2 languages loaded.
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 -
+     module(gui).
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no - in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--2
+[] 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 -
+     export([start/0, init/1, terminate/2,  code_change/3,
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no - in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.3 -export([start/0, init/1, terminate/2,  code_
+                                                 change/3,
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.7 
+    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 3--7
+[]
+ []
+
+
+Overfull \hbox (313.57446pt too wide) in paragraph at lines 3--7
+[]\OML/cmm/m/it/10 hange=\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 ; handle[]nfo=\OT1/c
+mr/m/n/10 2\OML/cmm/m/it/10 ; handle[]all=\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 ; h
+andle[]ast=\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 ; handle[]vent=\OT1/cmr/m/n/10 2])
+\OML/cmm/m/it/10 : \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (101.50893pt too wide) in paragraph at lines 3--7
+\OML/cmm/m/it/10 behaviour\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 wx[]bject\OT1/cmr/m
+/n/10 )\OML/cmm/m/it/10 : \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (149.24089pt too wide) in paragraph at lines 3--7
+\OML/cmm/m/it/10 include[]ib\OT1/cmr/m/n/10 ("\OML/cmm/m/it/10 wx=include=wx:hr
+l\OT1/cmr/m/n/10 ")\OML/cmm/m/it/10 :$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 -
+     include_lib("./defs.hrl").
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no - in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.9 -include_
+             lib("./defs.hrl").
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.10 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (96.16986pt too wide) in paragraph at lines 9--10
+[]$[]\OML/cmm/m/it/10 ib\OT1/cmr/m/n/10 ("\OML/cmm/m/it/10 :=defs:hrl\OT1/cmr/m
+/n/10 ")\OML/cmm/m/it/10 :$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 -
+      define(SYSTEM, 0).
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no - in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no Y in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no K in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no X in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.14 -define(MAX_
+                 CONNECTIONS, 100000).
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.15 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 11--15
+[]
+ []
+
+
+Overfull \hbox (125.40993pt too wide) in paragraph at lines 11--15
+[]\OML/cmm/m/it/10 ONNECTIONS; \OT1/cmr/m/n/10 100000)\OML/cmm/m/it/10 :$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 -
+      define(SYSTEM_NAME, "System").
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no - in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no Y in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no M in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.16 -define(SYSTEM_
+                    NAME, "System").
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.17 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (108.65077pt too wide) in paragraph at lines 16--17
+[]$[]\OML/cmm/m/it/10 AME; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 System\OT1/cmr/m/n
+/10 ")\OML/cmm/m/it/10 :$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 -
+      record(state,
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no - in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 28--35
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 s
+      tart() ->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no x in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.38     wx_
+            object:start_link(?MODULE, Server, []).
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.39 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 36--39
+[]
+ []
+
+
+Overfull \hbox (31.5798pt too wide) in paragraph at lines 36--39
+[]\OML/cmm/m/it/10 bject \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (149.93108pt too wide) in paragraph at lines 36--39
+\OML/cmm/m/it/10 start[]ink\OT1/cmr/m/n/10 (?\OML/cmm/m/it/10 MODULE; Server; \
+OT1/cmr/m/n/10 [])\OML/cmm/m/it/10 :$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 i
+      nit(Server) ->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.43                      do_
+                             init(Server) end ).
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.44 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 41--44
+[]
+ []
+
+
+Overfull \hbox (77.50143pt too wide) in paragraph at lines 41--44
+[]\OML/cmm/m/it/10 nit\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Server\OT1/cmr/m/n/10 )
+\OML/cmm/m/it/10 end\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 :$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 d
+      o_init(Server) ->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.45 do_
+        init(Server) ->
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.46 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (93.30458pt too wide) in paragraph at lines 45--46
+[]$[]\OML/cmm/m/it/10 nit\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Server\OT1/cmr/m/n/1
+0 )\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.48     {C
+           lientName, ClientID} = find_unique_name("client_", ?MAX_CONNECTIO...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no C in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.48     {ClientName, ClientID} = find_
+                                       unique_name("client_", ?MAX_CONNECTIO...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing { inserted.
+<to be read again> 
+                   }
+l.49     {GUIName,_ }
+                                = find_unique_name("gui_", ?MAX_CONNECTIONS),
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.50 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.50 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 48--50
+[]
+ []
+
+
+Overfull \hbox (515.48859pt too wide) in paragraph at lines 48--50
+[]\OML/cmm/m/it/10 nique[]ame\OT1/cmr/m/n/10 ("\OML/cmm/m/it/10 client[]; \OT1/
+cmr/m/n/10 ?\OML/cmm/m/it/10 MAX[]ONNECTIONS\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ;
+ []$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52     r
+          egister(to_atom(GUIName), self()),
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.52     register(to_
+                     atom(GUIName), self()),
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.54 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (187.84172pt too wide) in paragraph at lines 52--54
+[]$[]\OML/cmm/m/it/10 tom\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 GUIName\OT1/cmr/m/n/
+10 )\OML/cmm/m/it/10 ; self\OT1/cmr/m/n/10 ())\OML/cmm/m/it/10 ; genserver \OT1
+/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (156.01424pt too wide) in paragraph at lines 52--54
+\OML/cmm/m/it/10 start\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 to[]tom\OT1/cmr/m/n/10 
+(\OML/cmm/m/it/10 ClientName\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; client \OT1/cmr
+/m/n/10 :
+ []
+
+
+Overfull \hbox (203.46764pt too wide) in paragraph at lines 52--54
+\OML/cmm/m/it/10 initial[]tate\OT1/cmr/m/n/10 ("\OML/cmm/m/it/10 user\OT1/cmr/m
+/n/10 01"\OML/cmm/m/it/10 ; GUIName\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; funclien
+t \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (46.75824pt too wide) in paragraph at lines 52--54
+\OML/cmm/m/it/10 handle=\OT1/cmr/m/n/10 2)\OML/cmm/m/it/10 ;$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56     F
+          rame = wxFrame:new(Server, -1, "Chat", []),
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no F in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no , in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 56--59
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62     C
+          md  = wxTextCtrl:new(Panel, -1, [{value, ""}, {style, ?wxTE_PROCES...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no C in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no ? in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no E in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.62 ...ew(Panel, -1, [{value, ""}, {style, ?wxTE_
+                                                  PROCESS_ENTER}]),
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.62 ...[{value, ""}, {style, ?wxTE_PROCESS_ENTER}
+                                                  ]),
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.64 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 62--64
+[]
+ []
+
+
+Overfull \hbox (266.1422pt too wide) in paragraph at lines 62--64
+[]\OML/cmm/m/it/10 ROCESS[]NTER\OT1/cmr/m/n/10 ])\OML/cmm/m/it/10 ; label\OT1/c
+mr/m/n/10 (\OML/cmm/m/it/10 ClientID; \OT1/cmr/m/n/10 ?\OML/cmm/m/it/10 CMDLINE
+; Cmd\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ;$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.65     N
+          tbk = wxAuiNotebook:new(Panel,[{style,?wxAUI_NB_DEFAULT_STYLE}]),
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no N in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no ? in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no U in font nullfont!
+Missing character: There is no I in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.65 ... = wxAuiNotebook:new(Panel,[{style,?wxAUI_
+                                                  NB_DEFAULT_STYLE}]),
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.65 ...new(Panel,[{style,?wxAUI_NB_DEFAULT_STYLE}
+                                                  ]),
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.67 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 65--67
+[]
+ []
+
+
+Overfull \hbox (287.77496pt too wide) in paragraph at lines 65--67
+[]\OML/cmm/m/it/10 B[]EFAULT[]TYLE\OT1/cmr/m/n/10 ])\OML/cmm/m/it/10 ; label\OT
+1/cmr/m/n/10 (\OML/cmm/m/it/10 ClientID; \OT1/cmr/m/n/10 ?\OML/cmm/m/it/10 NOTE
+BOOK; Ntbk\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ;$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68     T
+          ab = create_tab(ClientName, ?SYSTEM_NAME, "Welcome to CCHAT v. 0.2"),
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no T in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.68     Tab = create_
+                      tab(ClientName, ?SYSTEM_NAME, "Welcome to CCHAT v. 0.2"),
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.70 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 68--70
+[]
+ []
+
+
+Overfull \hbox (446.73097pt too wide) in paragraph at lines 68--70
+[]\OML/cmm/m/it/10 ab\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; \OT1/cmr/m/n
+/10 ?\OML/cmm/m/it/10 SYSTEM[]AME; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 WelcometoC
+CHATv:\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 2")\OML/cmm/m/it/10 ; 
+label\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ClientID; \OT1/cmr/m/n/10 ?\OML/cmm/m/it
+/10 SYSTEM; Tab\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ;$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.72     M
+          ainSizer = wxBoxSizer:new(?wxVERTICAL),
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no M in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no ? in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no V in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no ? in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no X in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no ? in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no X in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no , in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 72--77
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.78     w
+          xFrame:show(Frame),
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no w in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no , in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 78--79
+[] 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80     f
+          ocus(with_label(ClientName, ?CMDLINE)),
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.80     focus(with_
+                    label(ClientName, ?CMDLINE)),
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.81 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (176.98064pt too wide) in paragraph at lines 80--81
+[]$[]\OML/cmm/m/it/10 abel\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; \OT1/cm
+r/m/n/10 ?\OML/cmm/m/it/10 CMDLINE\OT1/cmr/m/n/10 ))\OML/cmm/m/it/10 ;$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.82     w
+          xTextCtrl:connect(Cmd, command_text_enter),
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no w in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.82     wxTextCtrl:connect(Cmd, command_
+                                         text_enter),
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.83 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 82--83
+[]
+ []
+
+
+Overfull \hbox (47.52339pt too wide) in paragraph at lines 82--83
+[]\OML/cmm/m/it/10 ext[]nter\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ;$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.84     w
+          xAuiNotebook:connect(Ntbk, command_auinotebook_button),
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no w in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.84     wxAuiNotebook:connect(Ntbk, command_
+                                             auinotebook_button),
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.85 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 84--85
+[]
+ []
+
+
+Overfull \hbox (86.7962pt too wide) in paragraph at lines 84--85
+[]\OML/cmm/m/it/10 uinotebook[]utton\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ;$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.86     t
+          race(["Client:", ClientName]),
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no U in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no U in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no , in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 86--88
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.89     {P
+           anel, #state{parent=Panel, client=ClientName, clientid=ClientID, ...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no P in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no , in font nullfont!
+! You can't use `macro parameter character #' in horizontal mode.
+l.89     {Panel, #
+                  state{parent=Panel, client=ClientName, clientid=ClientID, ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no U in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 89--90
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.94 h
+      andle_event(#wx{ event = #wxCommand{type = command_text_enter, cmdStri...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.94 handle_
+            event(#wx{ event = #wxCommand{type = command_text_enter, cmdStri...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.94 handle_event(#
+                   wx{ event = #wxCommand{type = command_text_enter, cmdStri...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.94 handle_event(#wx{ event = #
+                                wxCommand{type = command_text_enter, cmdStri...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.95              St = #
+                        state{ parent = Panel, client = ClientName, clientid...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.96 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (386.91922pt too wide) in paragraph at lines 94--96
+[]$[]\OML/cmm/m/it/10 vent\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 wx[]; St \OT1/cmr/m
+/n/10 =
+ []
+
+
+Overfull \hbox (307.4695pt too wide) in paragraph at lines 94--96
+\OML/cmm/m/it/10 state[]\OT1/cmr/m/n/10 )\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 
+>$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.97     c
+          lear_text(with_label(ClientName, ?CMDLINE)),
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.97     clear_
+               text(with_label(ClientName, ?CMDLINE)),
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.102 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (252.68874pt too wide) in paragraph at lines 97--102
+[]$[]\OML/cmm/m/it/10 ext\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 with[]abel\OT1/cmr/m
+/n/10 (\OML/cmm/m/it/10 ClientName; \OT1/cmr/m/n/10 ?\OML/cmm/m/it/10 CMDLINE\O
+T1/cmr/m/n/10 ))\OML/cmm/m/it/10 ; Cmd \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (37.80557pt too wide) in paragraph at lines 97--102
+\OML/cmm/m/it/10 lexgrm \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (90.80714pt too wide) in paragraph at lines 97--102
+\OML/cmm/m/it/10 parse[]md\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Item\OT1/cmr/m/n/10
+ )\OML/cmm/m/it/10 ; io \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (154.01118pt too wide) in paragraph at lines 97--102
+\OML/cmm/m/it/10 format\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Cmd\OT1/cmr/m/n/10 )\O
+ML/cmm/m/it/10 ; trace\OT1/cmr/m/n/10 (["\OML/cmm/m/it/10 Command \OT1/cmr/m/n/
+10 :
+ []
+
+
+Overfull \hbox (94.0272pt too wide) in paragraph at lines 97--102
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; Cmd\OT1/cmr/m/n/10 ])\OML/cmm/m/it/10 ; cas
+eCmdof$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.104          {c
+                 onnect_remote, Server, Machine} ->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.104          {connect_
+                        remote, Server, Machine} ->
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.104          {connect_remote, Server, Machine}
+                                                 ->
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.111 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (148.72186pt too wide) in paragraph at lines 104--111
+[]$[]\OML/cmm/m/it/10 emote; Server; Machine\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/
+10 >
+ []
+
+
+Overfull \hbox (238.9328pt too wide) in paragraph at lines 104--111
+\OML/cmm/m/it/10 write[]hannel\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 with[]abel\OT1/
+cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; \OT1/cmr/m/n/10 ?\OML/cmm/m/it/10 SYST
+EM\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 " \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 104--111
+\OT1/cmr/m/n/10 " +
+ []
+
+
+Overfull \hbox (108.10631pt too wide) in paragraph at lines 104--111
+\OT1/cmr/m/n/10 +"\OML/cmm/m/it/10 Tryingtoconnectto\OT1/cmr/m/n/10 " +
+ []
+
+
+Overfull \hbox (46.36119pt too wide) in paragraph at lines 104--111
+\OT1/cmr/m/n/10 +\OML/cmm/m/it/10 Server \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (73.26202pt too wide) in paragraph at lines 104--111
+\OT1/cmr/m/n/10 +"\OML/cmm/m/it/10 inmachine\OT1/cmr/m/n/10 " +
+ []
+
+
+Overfull \hbox (55.82603pt too wide) in paragraph at lines 104--111
+\OT1/cmr/m/n/10 +\OML/cmm/m/it/10 Machine \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (74.5302pt too wide) in paragraph at lines 104--111
+\OT1/cmr/m/n/10 +"\OML/cmm/m/it/10 :::\OT1/cmr/m/n/10 ")\OML/cmm/m/it/10 ; Resu
+lt \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (185.98857pt too wide) in paragraph at lines 104--111
+\OML/cmm/m/it/10 catch[]atal\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; Panel
+; fun\OT1/cmr/m/n/10 ()\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (327.16417pt too wide) in paragraph at lines 104--111
+\OML/cmm/m/it/10 request\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; []\OT1/cm
+r/m/n/10 )\OML/cmm/m/it/10 end\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; caseResultofo
+k\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (241.71059pt too wide) in paragraph at lines 104--111
+\OML/cmm/m/it/10 write[]hannel\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 with[]abel\OT1/
+cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; \OT1/cmr/m/n/10 ?\OML/cmm/m/it/10 SYST
+EM\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 " +
+ []
+
+
+Overfull \hbox (105.48651pt too wide) in paragraph at lines 104--111
+\OML/cmm/m/it/10 Connected\OT1/cmr/m/n/10 !"); \OML/cmm/m/it/10 error\OMS/cmsy/
+m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (29.00934pt too wide) in paragraph at lines 104--111
+\OML/cmm/m/it/10 okend\OT1/cmr/m/n/10 ;$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.113          {c
+                 onnect, Server} ->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.114             write_
+                        channel(with_label(ClientName, ?SYSTEM), "* "++"Tryi...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.120 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 113--120
+[]
+ []
+
+
+Overfull \hbox (215.00267pt too wide) in paragraph at lines 113--120
+[]\OML/cmm/m/it/10 hannel\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 with[]abel\OT1/cmr/m
+/n/10 (\OML/cmm/m/it/10 ClientName; \OT1/cmr/m/n/10 ?\OML/cmm/m/it/10 SYSTEM\OT
+1/cmr/m/n/10 )\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 " \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 113--120
+\OT1/cmr/m/n/10 " +
+ []
+
+
+Overfull \hbox (108.10631pt too wide) in paragraph at lines 113--120
+\OT1/cmr/m/n/10 +"\OML/cmm/m/it/10 Tryingtoconnectto\OT1/cmr/m/n/10 " +
+ []
+
+
+Overfull \hbox (46.36119pt too wide) in paragraph at lines 113--120
+\OT1/cmr/m/n/10 +\OML/cmm/m/it/10 Server \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (74.5302pt too wide) in paragraph at lines 113--120
+\OT1/cmr/m/n/10 +"\OML/cmm/m/it/10 :::\OT1/cmr/m/n/10 ")\OML/cmm/m/it/10 ; Resu
+lt \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (185.98857pt too wide) in paragraph at lines 113--120
+\OML/cmm/m/it/10 catch[]atal\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; Panel
+; fun\OT1/cmr/m/n/10 ()\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (283.00488pt too wide) in paragraph at lines 113--120
+\OML/cmm/m/it/10 request\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; []\OT1/cm
+r/m/n/10 )\OML/cmm/m/it/10 end\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; caseResultofo
+k\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (241.71059pt too wide) in paragraph at lines 113--120
+\OML/cmm/m/it/10 write[]hannel\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 with[]abel\OT1/
+cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; \OT1/cmr/m/n/10 ?\OML/cmm/m/it/10 SYST
+EM\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 " +
+ []
+
+
+Overfull \hbox (105.48651pt too wide) in paragraph at lines 113--120
+\OML/cmm/m/it/10 Connected\OT1/cmr/m/n/10 !"); \OML/cmm/m/it/10 error\OMS/cmsy/
+m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (29.00934pt too wide) in paragraph at lines 113--120
+\OML/cmm/m/it/10 okend\OT1/cmr/m/n/10 ;$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.122          d
+                isconnect ->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.123             Result = catch_
+                                 fatal (ClientName, Panel, fun () -> request...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.128 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 122--128
+[]
+ []
+
+
+Overfull \hbox (162.67487pt too wide) in paragraph at lines 122--128
+[]\OML/cmm/m/it/10 atal\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; Panel; fun
+\OT1/cmr/m/n/10 ()\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (261.09238pt too wide) in paragraph at lines 122--128
+\OML/cmm/m/it/10 request\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; disconnec
+t\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 end\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; caseR
+esultofok\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (241.71059pt too wide) in paragraph at lines 122--128
+\OML/cmm/m/it/10 write[]hannel\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 with[]abel\OT1/
+cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; \OT1/cmr/m/n/10 ?\OML/cmm/m/it/10 SYST
+EM\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 " +
+ []
+
+
+Overfull \hbox (115.86337pt too wide) in paragraph at lines 122--128
+\OML/cmm/m/it/10 Disconnected\OT1/cmr/m/n/10 "); \OML/cmm/m/it/10 error\OMS/cms
+y/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (29.00934pt too wide) in paragraph at lines 122--128
+\OML/cmm/m/it/10 okend\OT1/cmr/m/n/10 ;$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.130          {j
+                 oin, Channel}   ->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no j in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.131             Result = catch_
+                                 fatal(ClientName, Panel, fun () -> request(...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.138 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 130--138
+[]
+ []
+
+
+Overfull \hbox (162.67487pt too wide) in paragraph at lines 130--138
+[]\OML/cmm/m/it/10 atal\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; Panel; fun
+\OT1/cmr/m/n/10 ()\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (276.16156pt too wide) in paragraph at lines 130--138
+\OML/cmm/m/it/10 request\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; []\OT1/cm
+r/m/n/10 )\OML/cmm/m/it/10 end\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; caseResultofo
+k\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (241.71059pt too wide) in paragraph at lines 130--138
+\OML/cmm/m/it/10 write[]hannel\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 with[]abel\OT1/
+cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; \OT1/cmr/m/n/10 ?\OML/cmm/m/it/10 SYST
+EM\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 " +
+ []
+
+
+Overfull \hbox (43.4406pt too wide) in paragraph at lines 130--138
+\OML/cmm/m/it/10 Joined\OT1/cmr/m/n/10 " +
+ []
+
+
+Overfull \hbox (82.22832pt too wide) in paragraph at lines 130--138
+\OT1/cmr/m/n/10 +\OML/cmm/m/it/10 Channel\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; Ta
+b \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (158.55928pt too wide) in paragraph at lines 130--138
+\OML/cmm/m/it/10 create[]ab\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; Channe
+l; \OT1/cmr/m/n/10 " \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (51.52931pt too wide) in paragraph at lines 130--138
+\OML/cmm/m/it/10 Channel\OT1/cmr/m/n/10 " +
+ []
+
+
+Overfull \hbox (288.16235pt too wide) in paragraph at lines 130--138
+\OT1/cmr/m/n/10 +\OML/cmm/m/it/10 Channel\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; la
+bel\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ClientID; channel[]d\OT1/cmr/m/n/10 (\OML/
+cmm/m/it/10 Channel\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; Tab\OT1/cmr/m/n/10 ); \O
+ML/cmm/m/it/10 error\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (29.00934pt too wide) in paragraph at lines 130--138
+\OML/cmm/m/it/10 okend\OT1/cmr/m/n/10 ;$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.140          l
+                eave -> Channel = active_channel(with_label(ClientName,?NOTE...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.140          leave -> Channel = active_
+                                         channel(with_label(ClientName,?NOTE...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.142 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 140--142
+[]
+ []
+
+
+Overfull \hbox (426.47517pt too wide) in paragraph at lines 140--142
+[]\OML/cmm/m/it/10 hannel\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 with[]abel\OT1/cmr/m
+/n/10 (\OML/cmm/m/it/10 ClientName; \OT1/cmr/m/n/10 ?\OML/cmm/m/it/10 NOTEBOOK\
+OT1/cmr/m/n/10 ))\OML/cmm/m/it/10 ; leave[]hannel\OT1/cmr/m/n/10 (\OML/cmm/m/it
+/10 ClientName; Panel; Channel\OT1/cmr/m/n/10 );$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.144          {l
+                 eave, Channel} -> leave_channel(ClientName, Panel, Channel) ;
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.144          {leave, Channel} -> leave_
+                                         channel(ClientName, Panel, Channel) ;
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.145 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 144--145
+[]
+ []
+
+
+Overfull \hbox (176.69795pt too wide) in paragraph at lines 144--145
+[]\OML/cmm/m/it/10 hannel\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; Panel; C
+hannel\OT1/cmr/m/n/10 );$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.147          {m
+                 sg, String}     ->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no m in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.148             Channel = active_
+                                   channel(with_label(ClientName,?NOTEBOOK)),
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.158 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 147--158
+[]
+ []
+
+
+Overfull \hbox (398.54745pt too wide) in paragraph at lines 147--158
+[]\OML/cmm/m/it/10 hannel\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 with[]abel\OT1/cmr/m
+/n/10 (\OML/cmm/m/it/10 ClientName; \OT1/cmr/m/n/10 ?\OML/cmm/m/it/10 NOTEBOOK\
+OT1/cmr/m/n/10 ))\OML/cmm/m/it/10 ; caseChannelof\OT1/cmr/m/n/10 ?\OML/cmm/m/it
+/10 SYSTEM[]AME\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (241.71059pt too wide) in paragraph at lines 147--158
+\OML/cmm/m/it/10 write[]hannel\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 with[]abel\OT1/
+cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; \OT1/cmr/m/n/10 ?\OML/cmm/m/it/10 SYST
+EM\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 " \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 147--158
+\OT1/cmr/m/n/10 " +
+ []
+
+
+Overfull \hbox (127.7049pt too wide) in paragraph at lines 147--158
+\OT1/cmr/m/n/10 +"\OML/cmm/m/it/10 Commandnotrecognized \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 147--158
+\OT1/cmr/m/n/10 " +
+ []
+
+
+Overfull \hbox (60.32367pt too wide) in paragraph at lines 147--158
+\OT1/cmr/m/n/10 +\OML/cmm/m/it/10 String\OT1/cmr/m/n/10 );[] \OML/cmm/m/it/10 >
+
+ []
+
+
+Overfull \hbox (40.0857pt too wide) in paragraph at lines 147--158
+\OML/cmm/m/it/10 Result \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (185.98857pt too wide) in paragraph at lines 147--158
+\OML/cmm/m/it/10 catch[]atal\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; Panel
+; fun\OT1/cmr/m/n/10 ()\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (352.9682pt too wide) in paragraph at lines 147--158
+\OML/cmm/m/it/10 request\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; []\OT1/cm
+r/m/n/10 )\OML/cmm/m/it/10 end\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; caseResultofo
+k\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (347.0897pt too wide) in paragraph at lines 147--158
+\OML/cmm/m/it/10 write[]hannel\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 with[]abel\OT1/
+cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; channel[]d\OT1/cmr/m/n/10 (\OML/cmm/m/
+it/10 Channel\OT1/cmr/m/n/10 ))\OML/cmm/m/it/10 ; String\OT1/cmr/m/n/10 ); \OML
+/cmm/m/it/10 error\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (44.87282pt too wide) in paragraph at lines 147--158
+\OML/cmm/m/it/10 okendend\OT1/cmr/m/n/10 ;$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.160          w
+                hoami -> Result = catch_fatal(ClientName, Panel, fun () -> r...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no w in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.160          whoami -> Result = catch_
+                                        fatal(ClientName, Panel, fun () -> r...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.165 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 160--165
+[]
+ []
+
+
+Overfull \hbox (162.67487pt too wide) in paragraph at lines 160--165
+[]\OML/cmm/m/it/10 atal\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; Panel; fun
+\OT1/cmr/m/n/10 ()\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (263.0322pt too wide) in paragraph at lines 160--165
+\OML/cmm/m/it/10 request\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; whoami\OT
+1/cmr/m/n/10 )\OML/cmm/m/it/10 end\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; caseResul
+toferror\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (55.5643pt too wide) in paragraph at lines 160--165
+\OML/cmm/m/it/10 ok\OT1/cmr/m/n/10 ; \OML/cmm/m/it/10 Nick\OMS/cmsy/m/n/10 ^^@ 
+\OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (238.9328pt too wide) in paragraph at lines 160--165
+\OML/cmm/m/it/10 write[]hannel\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 with[]abel\OT1/
+cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; \OT1/cmr/m/n/10 ?\OML/cmm/m/it/10 SYST
+EM\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 " \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 160--165
+\OT1/cmr/m/n/10 " +
+ []
+
+
+Overfull \hbox (58.88675pt too wide) in paragraph at lines 160--165
+\OT1/cmr/m/n/10 +"\OML/cmm/m/it/10 Youare\OT1/cmr/m/n/10 " +
+ []
+
+
+Overfull \hbox (52.72647pt too wide) in paragraph at lines 160--165
+\OT1/cmr/m/n/10 +\OML/cmm/m/it/10 Nick\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 end\OT1
+/cmr/m/n/10 ;$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.167          {n
+                 ick, Nick} -> Result = catch_fatal(ClientName, Panel, fun (...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.167          {nick, Nick} -> Result = catch_
+                                              fatal(ClientName, Panel, fun (...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.173 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 167--173
+[]
+ []
+
+
+Overfull \hbox (162.67487pt too wide) in paragraph at lines 167--173
+[]\OML/cmm/m/it/10 atal\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; Panel; fun
+\OT1/cmr/m/n/10 ()\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (260.13925pt too wide) in paragraph at lines 167--173
+\OML/cmm/m/it/10 request\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; []\OT1/cm
+r/m/n/10 )\OML/cmm/m/it/10 end\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; caseResultofo
+k\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (238.9328pt too wide) in paragraph at lines 167--173
+\OML/cmm/m/it/10 write[]hannel\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 with[]abel\OT1/
+cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; \OT1/cmr/m/n/10 ?\OML/cmm/m/it/10 SYST
+EM\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 " \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 167--173
+\OT1/cmr/m/n/10 " +
+ []
+
+
+Overfull \hbox (116.939pt too wide) in paragraph at lines 167--173
+\OT1/cmr/m/n/10 +"\OML/cmm/m/it/10 Youareknownnowas\OT1/cmr/m/n/10 " +
+ []
+
+
+Overfull \hbox (80.73453pt too wide) in paragraph at lines 167--173
+\OT1/cmr/m/n/10 +\OML/cmm/m/it/10 Nick\OT1/cmr/m/n/10 ); \OML/cmm/m/it/10 error
+\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (29.00934pt too wide) in paragraph at lines 167--173
+\OML/cmm/m/it/10 okend\OT1/cmr/m/n/10 ;$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.175          {p
+                 ing, Nick} -> Result = catch_fatal(ClientName, Panel, fun (...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.175          {ping, Nick} -> Result = catch_
+                                              fatal(ClientName, Panel, fun (...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.181 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 175--181
+[]
+ []
+
+
+Overfull \hbox (162.67487pt too wide) in paragraph at lines 175--181
+[]\OML/cmm/m/it/10 atal\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; Panel; fun
+\OT1/cmr/m/n/10 ()\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (260.45056pt too wide) in paragraph at lines 175--181
+\OML/cmm/m/it/10 request\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; []\OT1/cm
+r/m/n/10 )\OML/cmm/m/it/10 end\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; caseResultofo
+k\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (238.9328pt too wide) in paragraph at lines 175--181
+\OML/cmm/m/it/10 write[]hannel\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 with[]abel\OT1/
+cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; \OT1/cmr/m/n/10 ?\OML/cmm/m/it/10 SYST
+EM\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 " \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 175--181
+\OT1/cmr/m/n/10 " +
+ []
+
+
+Overfull \hbox (47.94061pt too wide) in paragraph at lines 175--181
+\OT1/cmr/m/n/10 +"\OML/cmm/m/it/10 Ping\OT1/cmr/m/n/10 " +
+ []
+
+
+Overfull \hbox (80.73453pt too wide) in paragraph at lines 175--181
+\OT1/cmr/m/n/10 +\OML/cmm/m/it/10 Nick\OT1/cmr/m/n/10 ); \OML/cmm/m/it/10 error
+\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (29.00934pt too wide) in paragraph at lines 175--181
+\OML/cmm/m/it/10 okend\OT1/cmr/m/n/10 ;$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.183          {i
+                 gnore, Line}    ->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.184             write_
+                        channel(with_label(ClientName, ?SYSTEM), "- "++"Comm...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.189 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 183--189
+[]
+ []
+
+
+Overfull \hbox (217.78046pt too wide) in paragraph at lines 183--189
+[]\OML/cmm/m/it/10 hannel\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 with[]abel\OT1/cmr/m
+/n/10 (\OML/cmm/m/it/10 ClientName; \OT1/cmr/m/n/10 ?\OML/cmm/m/it/10 SYSTEM\OT
+1/cmr/m/n/10 )\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 " \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 183--189
+\OT1/cmr/m/n/10 " +
+ []
+
+
+Overfull \hbox (669.17323pt too wide) in paragraph at lines 183--189
+\OT1/cmr/m/n/10 +"\OML/cmm/m/it/10 Commandnotrecognized\OT1/cmr/m/n/10 ")\OML/c
+mm/m/it/10 ; write[]hannel\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 with[]abel\OT1/cmr/
+m/n/10 (\OML/cmm/m/it/10 ClientName; \OT1/cmr/m/n/10 ?\OML/cmm/m/it/10 SYSTEM\O
+T1/cmr/m/n/10 )\OML/cmm/m/it/10 ; Line\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 end; fo
+cus\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 with[]abel\OT1/cmr/m/n/10 (\OML/cmm/m/it/1
+0 ClientName; \OT1/cmr/m/n/10 ?\OML/cmm/m/it/10 CMDLINE\OT1/cmr/m/n/10 ))\OML/c
+mm/m/it/10 ; []\OT1/cmr/m/n/10 ;$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.191 h
+       andle_event(#wx{ event = #wxAuiNotebook{type = command_auinotebook_bu...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.191 handle_
+             event(#wx{ event = #wxAuiNotebook{type = command_auinotebook_bu...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.191 handle_event(#
+                    wx{ event = #wxAuiNotebook{type = command_auinotebook_bu...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.191 handle_event(#wx{ event = #
+                                 wxAuiNotebook{type = command_auinotebook_bu...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.192              St = #
+                         state{ parent = Panel, client = ClientName }) ->
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.197 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (441.74335pt too wide) in paragraph at lines 191--197
+[]$[]\OML/cmm/m/it/10 vent\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 wx[]; St \OT1/cmr/m
+/n/10 =
+ []
+
+
+Overfull \hbox (213.32347pt too wide) in paragraph at lines 191--197
+\OML/cmm/m/it/10 state[]\OT1/cmr/m/n/10 )\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 
+>
+ []
+
+
+Overfull \hbox (33.1041pt too wide) in paragraph at lines 191--197
+\OML/cmm/m/it/10 Ntbk \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (370.00075pt too wide) in paragraph at lines 191--197
+\OML/cmm/m/it/10 typed[]earch\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 with[]abel\OT1/c
+mr/m/n/10 (\OML/cmm/m/it/10 ClientName; \OT1/cmr/m/n/10 ?\OML/cmm/m/it/10 NOTEB
+OOK\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; wxAuiNotebook\OT1/cmr/m/n/10 )\OML/cmm/m
+/it/10 ; Channel \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (77.11528pt too wide) in paragraph at lines 191--197
+\OML/cmm/m/it/10 wxAuiNotebook \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (383.5198pt too wide) in paragraph at lines 191--197
+\OML/cmm/m/it/10 getPageText\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Ntbk; TabPos\OT1/
+cmr/m/n/10 )\OML/cmm/m/it/10 ; leave[]hannel\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 C
+lientName; Panel; Channel\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; []\OT1/cmr/m/n/10 
+;$ 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.197 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.198 h
+       andle_event(WX = #wx{}, State = #state{}) ->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.198 handle_
+             event(WX = #wx{}, State = #state{}) ->
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.198 handle_event(WX = #
+                         wx{}, State = #state{}) ->
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.198 handle_event(WX = #wx{}, State = #
+                                        state{}) ->
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.199     io:format("#
+                      wx: ~p~n",[WX]),
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.200     io:format("#
+                      state: ~p~n",[State]),
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.202 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (78.11703pt too wide) in paragraph at lines 198--202
+[]$[]\OML/cmm/m/it/10 vent\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 WX \OT1/cmr/m/n/10 
+=
+ []
+
+
+Overfull \hbox (52.01614pt too wide) in paragraph at lines 198--202
+\OML/cmm/m/it/10 wx[]; State \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (44.0741pt too wide) in paragraph at lines 198--202
+\OML/cmm/m/it/10 state[]\OT1/cmr/m/n/10 )\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 
+>
+ []
+
+
+Overfull \hbox (13.84785pt too wide) in paragraph at lines 198--202
+\OML/cmm/m/it/10 io \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (131.76918pt too wide) in paragraph at lines 198--202
+\OML/cmm/m/it/10 format\OT1/cmr/m/n/10 ("\OML/cmm/m/it/10 wx \OT1/cmr/m/n/10 : 
+ []\OML/cmm/m/it/10 p []n\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 [\
+OML/cmm/m/it/10 WX\OT1/cmr/m/n/10 ])\OML/cmm/m/it/10 ; io \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (195.46313pt too wide) in paragraph at lines 198--202
+\OML/cmm/m/it/10 format\OT1/cmr/m/n/10 ("\OML/cmm/m/it/10 state \OT1/cmr/m/n/10
+ :  []\OML/cmm/m/it/10 p []n\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10
+ [\OML/cmm/m/it/10 State\OT1/cmr/m/n/10 ])\OML/cmm/m/it/10 ; []:$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.204 h
+       andle_info(_Msg, State) ->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.204 handle_
+             info(_Msg, State) ->
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.206 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (113.27171pt too wide) in paragraph at lines 204--206
+[]$[]\OML/cmm/m/it/10 nfo\OT1/cmr/m/n/10 ([]\OML/cmm/m/it/10 sg; State\OT1/cmr/
+m/n/10 )\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (64.86353pt too wide) in paragraph at lines 204--206
+[]\OML/cmm/m/it/10 :$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.207 h
+       andle_call(shutdown, _From, State) ->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.207 handle_
+             call(shutdown, _From, State) ->
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.209 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (162.92557pt too wide) in paragraph at lines 207--209
+[]$[]\OML/cmm/m/it/10 all\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 shutdown;[] rom; Sta
+te\OT1/cmr/m/n/10 )\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (101.41443pt too wide) in paragraph at lines 207--209
+[]\OT1/cmr/m/n/10 ;$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.211 h
+       andle_call({msg_to_GUI, Channel, Msg}, _From, State = #state{ client ...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.211 handle_
+             call({msg_to_GUI, Channel, Msg}, _From, State = #state{ client ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.211 ...g_to_GUI, Channel, Msg}, _From, State = #
+                                                  state{ client = ClientName...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.214 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (222.66928pt too wide) in paragraph at lines 211--214
+[]$[]\OML/cmm/m/it/10 all\OT1/cmr/m/n/10 ([]\OML/cmm/m/it/10 ;[] rom; State \OT
+1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (139.23549pt too wide) in paragraph at lines 211--214
+\OML/cmm/m/it/10 state[]\OT1/cmr/m/n/10 )\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 
+>
+ []
+
+
+Overfull \hbox (364.63411pt too wide) in paragraph at lines 211--214
+\OML/cmm/m/it/10 write[]hannel\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 with[]abel\OT1/
+cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; channel[]d\OT1/cmr/m/n/10 (\OML/cmm/m/
+it/10 Channel\OT1/cmr/m/n/10 ))\OML/cmm/m/it/10 ; Msg\OT1/cmr/m/n/10 )\OML/cmm/
+m/it/10 ; []\OT1/cmr/m/n/10 ;$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.216 h
+       andle_call({msg_to_SYSTEM, Msg}, _From, State = #state{ client = Clie...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.216 handle_
+             call({msg_to_SYSTEM, Msg}, _From, State = #state{ client = Clie...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.216 ...ll({msg_to_SYSTEM, Msg}, _From, State = #
+                                                  state{ client = ClientName...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.219 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (205.60506pt too wide) in paragraph at lines 216--219
+[]$[]\OML/cmm/m/it/10 all\OT1/cmr/m/n/10 ([]\OML/cmm/m/it/10 ;[] rom; State \OT
+1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (139.23549pt too wide) in paragraph at lines 216--219
+\OML/cmm/m/it/10 state[]\OT1/cmr/m/n/10 )\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 
+>
+ []
+
+
+Overfull \hbox (238.9328pt too wide) in paragraph at lines 216--219
+\OML/cmm/m/it/10 write[]hannel\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 with[]abel\OT1/
+cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; \OT1/cmr/m/n/10 ?\OML/cmm/m/it/10 SYST
+EM\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 " \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 216--219
+\OT1/cmr/m/n/10 " +
+ []
+
+
+Overfull \hbox (105.54517pt too wide) in paragraph at lines 216--219
+\OT1/cmr/m/n/10 +\OML/cmm/m/it/10 Msg\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; []\OT1
+/cmr/m/n/10 ;$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.220 h
+       andle_call(_Msg, _From, State) ->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.220 handle_
+             call(_Msg, _From, State) ->
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.222 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (138.35046pt too wide) in paragraph at lines 220--222
+[]$[]\OML/cmm/m/it/10 all\OT1/cmr/m/n/10 ([]\OML/cmm/m/it/10 sg;[] rom; State\O
+T1/cmr/m/n/10 )\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (100.92789pt too wide) in paragraph at lines 220--222
+[]\OML/cmm/m/it/10 :$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.223 h
+       andle_cast(_Msg, State) ->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.223 handle_
+             cast(_Msg, State) ->
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.225 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (110.77884pt too wide) in paragraph at lines 223--225
+[]$[]\OML/cmm/m/it/10 ast\OT1/cmr/m/n/10 ([]\OML/cmm/m/it/10 sg; State\OT1/cmr/
+m/n/10 )\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (64.86353pt too wide) in paragraph at lines 223--225
+[]\OML/cmm/m/it/10 :$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.226 c
+       ode_change(_, _, State) ->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.226 code_
+           change(_, _, State) ->
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Double subscript.
+l.226 code_change(_, _
+                      , State) ->
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.228 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (106.6421pt too wide) in paragraph at lines 226--228
+[]$[]\OML/cmm/m/it/10 hange\OT1/cmr/m/n/10 ([][]\OML/cmm/m/it/10 State\OT1/cmr/
+m/n/10 )\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (82.5852pt too wide) in paragraph at lines 226--228
+[]\OML/cmm/m/it/10 :$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.229 t
+       erminate(_Reason, _State) ->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ( in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.229 terminate(_
+                 Reason, _State) ->
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.231 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (101.6634pt too wide) in paragraph at lines 229--231
+[]$[]\OML/cmm/m/it/10 eason;[] tate\OT1/cmr/m/n/10 )\OMS/cmsy/m/n/10 ^^@ \OML/c
+mm/m/it/10 >
+ []
+
+
+Overfull \hbox (13.14586pt too wide) in paragraph at lines 229--231
+\OML/cmm/m/it/10 ok:$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.236 f
+       ind_unique_name(Prefix,N) ->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.236 find_
+           unique_name(Prefix,N) ->
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.244 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (146.11273pt too wide) in paragraph at lines 236--244
+[]$[]\OML/cmm/m/it/10 nique[]ame\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Prefix; N\OT1
+/cmr/m/n/10 )\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (34.1852pt too wide) in paragraph at lines 236--244
+\OML/cmm/m/it/10 Num \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (40.46533pt too wide) in paragraph at lines 236--244
+\OML/cmm/m/it/10 random \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (97.3642pt too wide) in paragraph at lines 236--244
+\OML/cmm/m/it/10 uniform\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 N\OT1/cmr/m/n/10 )\OM
+L/cmm/m/it/10 ; MStr \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (129.44711pt too wide) in paragraph at lines 236--244
+\OML/cmm/m/it/10 integer[]o[]ist\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Num\OT1/cmr/m
+/n/10 )\OML/cmm/m/it/10 ; Name \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (40.16513pt too wide) in paragraph at lines 236--244
+\OML/cmm/m/it/10 Prefix \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (241.90775pt too wide) in paragraph at lines 236--244
+\OT1/cmr/m/n/10 +\OML/cmm/m/it/10 MStr; casewhereis\OT1/cmr/m/n/10 (\OML/cmm/m/
+it/10 to[]tom\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Name\OT1/cmr/m/n/10 ))\OML/cmm/m
+/it/10 ofundefined\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (74.89359pt too wide) in paragraph at lines 236--244
+[]\OT1/cmr/m/n/10 ;[] \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (147.04529pt too wide) in paragraph at lines 236--244
+\OML/cmm/m/it/10 find[]nique[]ame\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Prefix; N\OT
+1/cmr/m/n/10 )\OML/cmm/m/it/10 end:$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.246 t
+       race(Args) ->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no + in font nullfont!
+Missing character: There is no + in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 246--248
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.250 c
+       lear_text(ID) ->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.250 clear_
+            text(ID) ->
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.253 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (77.3521pt too wide) in paragraph at lines 250--253
+[]$[]\OML/cmm/m/it/10 ext\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ID\OT1/cmr/m/n/10 )\
+OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (53.31232pt too wide) in paragraph at lines 250--253
+\OML/cmm/m/it/10 CmdLine \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (196.42442pt too wide) in paragraph at lines 250--253
+\OML/cmm/m/it/10 typed[]earch\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ID; wxTextCtrl\O
+T1/cmr/m/n/10 )\OML/cmm/m/it/10 ; wxTextCtrl \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (107.61458pt too wide) in paragraph at lines 250--253
+\OML/cmm/m/it/10 setValue\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 CmdLine; \OT1/cmr/m/
+n/10 "")\OML/cmm/m/it/10 :$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.254 f
+       atal_dialog(Parent, Error) ->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no f in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.254 fatal_
+            dialog(Parent, Error) ->
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Undefined control sequence.
+l.256     Msg = "Something went very wrong!\n
+                                             \n" ++ StrError,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.256     Msg = "Something went very wrong!\n\n
+                                               " ++ StrError,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.261 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (136.43335pt too wide) in paragraph at lines 254--261
+[]$[]\OML/cmm/m/it/10 ialog\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Parent; Error\OT1/
+cmr/m/n/10 )\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (52.83795pt too wide) in paragraph at lines 254--261
+\OML/cmm/m/it/10 StrError \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (25.16731pt too wide) in paragraph at lines 254--261
+\OML/cmm/m/it/10 lists \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (60.86256pt too wide) in paragraph at lines 254--261
+\OML/cmm/m/it/10 flatten\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 io[]ib \OT1/cmr/m/n/1
+0 :
+ []
+
+
+Overfull \hbox (132.76515pt too wide) in paragraph at lines 254--261
+\OML/cmm/m/it/10 format\OT1/cmr/m/n/10 (" []\OML/cmm/m/it/10 p\OT1/cmr/m/n/10 "
+\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 [\OML/cmm/m/it/10 Error\OT1/cmr/m/n/10 ]))\O
+ML/cmm/m/it/10 ; Msg \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (139.30309pt too wide) in paragraph at lines 254--261
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 Somethingwentverywrong\OT1/cmr/m/n/10 !" +
+ []
+
+
+Overfull \hbox (86.1713pt too wide) in paragraph at lines 254--261
+\OT1/cmr/m/n/10 +\OML/cmm/m/it/10 StrError; WW \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (89.03679pt too wide) in paragraph at lines 254--261
+\OML/cmm/m/it/10 wxMessageDialog \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (401.81558pt too wide) in paragraph at lines 254--261
+\OML/cmm/m/it/10 new\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Parent; Msg; \OT1/cmr/m/n
+/10 [[]])\OML/cmm/m/it/10 ; wxDialog \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (156.18948pt too wide) in paragraph at lines 254--261
+\OML/cmm/m/it/10 showModal\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 WW\OT1/cmr/m/n/10 )
+\OML/cmm/m/it/10 ; exit\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 StrError\OT1/cmr/m/n/1
+0 )\OML/cmm/m/it/10 :$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.262 c
+       reate_tab(ClientName, Title, Init) ->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.262 create_
+             tab(ClientName, Title, Init) ->
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.277 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (165.06837pt too wide) in paragraph at lines 262--277
+[]$[]\OML/cmm/m/it/10 ab\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; Title; In
+it\OT1/cmr/m/n/10 )\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (33.1041pt too wide) in paragraph at lines 262--277
+\OML/cmm/m/it/10 Ntbk \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (380.73195pt too wide) in paragraph at lines 262--277
+\OML/cmm/m/it/10 typed[]earch\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 with[]abel\OT1/c
+mr/m/n/10 (\OML/cmm/m/it/10 ClientName; \OT1/cmr/m/n/10 ?\OML/cmm/m/it/10 NOTEB
+OOK\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; wxAuiNotebook\OT1/cmr/m/n/10 )\OML/cmm/m
+/it/10 ; NtbkPanel \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (45.63313pt too wide) in paragraph at lines 262--277
+\OML/cmm/m/it/10 wxPanel \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (98.70828pt too wide) in paragraph at lines 262--277
+\OML/cmm/m/it/10 new\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Ntbk; \OT1/cmr/m/n/10 [])
+\OML/cmm/m/it/10 ; Msgs \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (59.35786pt too wide) in paragraph at lines 262--277
+\OML/cmm/m/it/10 wxTextCtrl \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (340.95753pt too wide) in paragraph at lines 262--277
+\OML/cmm/m/it/10 new\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 NtbkPanel; \OMS/cmsy/m/n/
+10 ^^@\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 [[]\OML/cmm/m/it/10 ;
+ []\OT1/cmr/m/n/10 ])\OML/cmm/m/it/10 ; wxTextCtrl \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (175.69078pt too wide) in paragraph at lines 262--277
+\OML/cmm/m/it/10 setEditable\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Msgs; false\OT1/c
+mr/m/n/10 )\OML/cmm/m/it/10 ; wxTextCtrl \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (196.36792pt too wide) in paragraph at lines 262--277
+\OML/cmm/m/it/10 setInsertionPointEnd\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Msgs\OT1
+/cmr/m/n/10 )\OML/cmm/m/it/10 ; NtbkSizer \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (62.0377pt too wide) in paragraph at lines 262--277
+\OML/cmm/m/it/10 wxBoxSizer \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (149.82852pt too wide) in paragraph at lines 262--277
+\OML/cmm/m/it/10 new\OT1/cmr/m/n/10 (?\OML/cmm/m/it/10 wxVERTICAL\OT1/cmr/m/n/1
+0 )\OML/cmm/m/it/10 ; wxSizer \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (163.23172pt too wide) in paragraph at lines 262--277
+\OML/cmm/m/it/10 addSpacer\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 NtbkSizer; \OT1/cmr
+/m/n/10 10)\OML/cmm/m/it/10 ; wxSizer \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (312.9993pt too wide) in paragraph at lines 262--277
+\OML/cmm/m/it/10 add\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 NtbkSizer; Msgs; \OT1/cmr
+/m/n/10 [[]\OML/cmm/m/it/10 ; []\OT1/cmr/m/n/10 ])\OML/cmm/m/it/10 ; wxPanel \O
+T1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (228.14682pt too wide) in paragraph at lines 262--277
+\OML/cmm/m/it/10 setSizer\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 NtbkPanel; NtbkSizer
+\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; wxAuiNotebook \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (210.30351pt too wide) in paragraph at lines 262--277
+\OML/cmm/m/it/10 addPage\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Ntbk; NtbkPanel; Titl
+e\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; wxWindow \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (130.13902pt too wide) in paragraph at lines 262--277
+\OML/cmm/m/it/10 setFocus\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 NtbkPanel\OT1/cmr/m/
+n/10 )\OML/cmm/m/it/10 ; Msgs:$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.278 a
+       ctive_channel(ID) ->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.278 active_
+             channel(ID) ->
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.283 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (94.81136pt too wide) in paragraph at lines 278--283
+[]$[]\OML/cmm/m/it/10 hannel\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ID\OT1/cmr/m/n/10
+ )\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (33.1041pt too wide) in paragraph at lines 278--283
+\OML/cmm/m/it/10 Ntbk \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (225.62611pt too wide) in paragraph at lines 278--283
+\OML/cmm/m/it/10 typed[]earch\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ID; wxAuiNoteboo
+k\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; PageNumber \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (77.11528pt too wide) in paragraph at lines 278--283
+\OML/cmm/m/it/10 wxAuiNotebook \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (122.28268pt too wide) in paragraph at lines 278--283
+\OML/cmm/m/it/10 getSelection\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Ntbk\OT1/cmr/m/n
+/10 )\OML/cmm/m/it/10 ; Title \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (77.11528pt too wide) in paragraph at lines 278--283
+\OML/cmm/m/it/10 wxAuiNotebook \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (181.85616pt too wide) in paragraph at lines 278--283
+\OML/cmm/m/it/10 getPageText\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Ntbk; PageNumber\
+OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; Title:$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.284 c
+       lose_tab(NotebookID, TabName) ->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.284 close_
+            tab(NotebookID, TabName) ->
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.292 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (163.7954pt too wide) in paragraph at lines 284--292
+[]$[]\OML/cmm/m/it/10 ab\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 NotebookID; TabName\O
+T1/cmr/m/n/10 )\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (33.1041pt too wide) in paragraph at lines 284--292
+\OML/cmm/m/it/10 Ntbk \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (228.91884pt too wide) in paragraph at lines 284--292
+\OML/cmm/m/it/10 typed[]earch\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 NotebookID; wxAu
+iNotebook\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; Max \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (77.11528pt too wide) in paragraph at lines 284--292
+\OML/cmm/m/it/10 wxAuiNotebook \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (131.14726pt too wide) in paragraph at lines 284--292
+\OML/cmm/m/it/10 getPageCount\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Ntbk\OT1/cmr/m/n
+/10 )\OML/cmm/m/it/10 ; Tabs \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (222.86278pt too wide) in paragraph at lines 284--292
+\OT1/cmr/m/n/10 [[]\OMS/cmsy/m/n/10 jj\OML/cmm/m/it/10 N <
+ []
+
+
+Overfull \hbox (32.94511pt too wide) in paragraph at lines 284--292
+\OMS/cmsy/m/n/10 ^^@\OML/cmm/m/it/10 lists \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (57.07062pt too wide) in paragraph at lines 284--292
+\OML/cmm/m/it/10 seq\OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; Max \OMS/cmsy/m/n/10 ^
+^@
+ []
+
+
+Overfull \hbox (89.78825pt too wide) in paragraph at lines 284--292
+\OT1/cmr/m/n/10 1)]\OML/cmm/m/it/10 ; [] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (25.16731pt too wide) in paragraph at lines 284--292
+\OML/cmm/m/it/10 lists \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (161.76468pt too wide) in paragraph at lines 284--292
+\OML/cmm/m/it/10 keyfind\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 TabName; \OT1/cmr/m/n
+/10 1\OML/cmm/m/it/10 ; Tabs\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; Page \OT1/cmr/m
+/n/10 =
+ []
+
+
+Overfull \hbox (77.11528pt too wide) in paragraph at lines 284--292
+\OML/cmm/m/it/10 wxAuiNotebook \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (192.19753pt too wide) in paragraph at lines 284--292
+\OML/cmm/m/it/10 getPage\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Ntbk; PageNumber\OT1/
+cmr/m/n/10 )\OML/cmm/m/it/10 ; wxWindow \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (186.1777pt too wide) in paragraph at lines 284--292
+\OML/cmm/m/it/10 destroyChildren\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Page\OT1/cmr/
+m/n/10 )\OML/cmm/m/it/10 ; wxAuiNotebook \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (153.61014pt too wide) in paragraph at lines 284--292
+\OML/cmm/m/it/10 removePage\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Ntbk; PageNumber\O
+T1/cmr/m/n/10 )\OML/cmm/m/it/10 :$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.293 w
+       rite_channel(ID, String) ->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no w in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.293 write_
+            channel(ID, String) ->
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Undefined control sequence.
+l.295     wxTextCtrl:writeText(DMesg, "\n
+                                         "++String).
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.296 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (128.9405pt too wide) in paragraph at lines 293--296
+[]$[]\OML/cmm/m/it/10 hannel\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ID; String\OT1/cm
+r/m/n/10 )\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (44.37634pt too wide) in paragraph at lines 293--296
+\OML/cmm/m/it/10 DMesg \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (196.42442pt too wide) in paragraph at lines 293--296
+\OML/cmm/m/it/10 typed[]earch\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ID; wxTextCtrl\O
+T1/cmr/m/n/10 )\OML/cmm/m/it/10 ; wxTextCtrl \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (105.07741pt too wide) in paragraph at lines 293--296
+\OML/cmm/m/it/10 writeText\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 DMesg; \OT1/cmr/m/n
+/10 "" +
+ []
+
+
+Overfull \hbox (44.12923pt too wide) in paragraph at lines 293--296
+\OT1/cmr/m/n/10 +\OML/cmm/m/it/10 String\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 :$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.298 f
+       ocus(ID) ->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no W in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no W in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no W in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no W in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no W in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 298--301
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.302 t
+       yped_search(ID, no_cast) ->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.302 typed_
+            search(ID, no_cast) ->
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.306 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (121.89583pt too wide) in paragraph at lines 302--306
+[]$[]\OML/cmm/m/it/10 earch\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ID; no[]ast\OT1/cm
+r/m/n/10 )\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (40.0857pt too wide) in paragraph at lines 302--306
+\OML/cmm/m/it/10 Result \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (56.46019pt too wide) in paragraph at lines 302--306
+\OML/cmm/m/it/10 wxWindow \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (140.38725pt too wide) in paragraph at lines 302--306
+\OML/cmm/m/it/10 findWindowById\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ID\OT1/cmr/m/n
+/10 )\OML/cmm/m/it/10 ; Result\OT1/cmr/m/n/10 ;$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.307 t
+       yped_search(ID, Cast) ->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.307 typed_
+            search(ID, Cast) ->
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.312 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (114.83499pt too wide) in paragraph at lines 307--312
+[]$[]\OML/cmm/m/it/10 earch\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ID; Cast\OT1/cmr/m
+/n/10 )\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (40.0857pt too wide) in paragraph at lines 307--312
+\OML/cmm/m/it/10 Result \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (56.46019pt too wide) in paragraph at lines 307--312
+\OML/cmm/m/it/10 wxWindow \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (168.85704pt too wide) in paragraph at lines 307--312
+\OML/cmm/m/it/10 findWindowById\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ID\OT1/cmr/m/n
+/10 )\OML/cmm/m/it/10 ; [] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (109.99103pt too wide) in paragraph at lines 307--312
+\OML/cmm/m/it/10 Result; []:$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.313 l
+       abel(ClientID, ID, Widget) ->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no W in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.314     Label = join_
+                       ids(ClientID, ID),
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.318 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 313--318
+[]
+ []
+
+
+Overfull \hbox (125.0968pt too wide) in paragraph at lines 313--318
+[]\OML/cmm/m/it/10 ds\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ClientID; ID\OT1/cmr/m/n
+/10 )\OML/cmm/m/it/10 ;[] esult \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (56.46019pt too wide) in paragraph at lines 313--318
+\OML/cmm/m/it/10 wxWindow \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (110.2519pt too wide) in paragraph at lines 313--318
+\OML/cmm/m/it/10 setId\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Widget; Label\OT1/cmr/m
+/n/10 )\OML/cmm/m/it/10 ; ok:$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.320 w
+       ith_label(ClientName, Id) ->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.320 with_
+           label(ClientName, Id) ->
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing { inserted.
+<to be read again> 
+                   }
+l.323     {N, _}
+                 = string:to_integer(S),
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.325 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.325 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (138.02995pt too wide) in paragraph at lines 320--325
+[]$[]\OML/cmm/m/it/10 abel\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; Id\OT1/
+cmr/m/n/10 )\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (33.4909pt too wide) in paragraph at lines 320--325
+\OML/cmm/m/it/10 CIds \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (25.16731pt too wide) in paragraph at lines 320--325
+\OML/cmm/m/it/10 lists \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (134.60812pt too wide) in paragraph at lines 320--325
+\OML/cmm/m/it/10 sublist\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; \OT1/cmr/
+m/n/10 8\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 5)\OML/cmm/m/it/10 ; S \OT1/cmr/m/n/
+10 =
+ []
+
+
+Overfull \hbox (25.16731pt too wide) in paragraph at lines 320--325
+\OML/cmm/m/it/10 lists \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (60.86256pt too wide) in paragraph at lines 320--325
+\OML/cmm/m/it/10 flatten\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 io[]ib \OT1/cmr/m/n/1
+0 :
+ []
+
+
+Overfull \hbox (247.85674pt too wide) in paragraph at lines 320--325
+\OML/cmm/m/it/10 format\OT1/cmr/m/n/10 (" []\OML/cmm/m/it/10 s []p\OT1/cmr/m/n/
+10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 [\OML/cmm/m/it/10 CIds; Id\OT1/cmr/m/n/1
+0 ]))\OML/cmm/m/it/10 ; []$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.327 j
+       oin_ids(ClientId, Id) ->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no j in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.327 join_
+           ids(ClientId, Id) ->
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing { inserted.
+<to be read again> 
+                   }
+l.329     {N, _}
+                 = string:to_integer(S),
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.331 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.331 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (113.30591pt too wide) in paragraph at lines 327--331
+[]$[]\OML/cmm/m/it/10 ds\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ClientId; Id\OT1/cmr/
+m/n/10 )\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (17.26382pt too wide) in paragraph at lines 327--331
+\OML/cmm/m/it/10 S \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (25.16731pt too wide) in paragraph at lines 327--331
+\OML/cmm/m/it/10 lists \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (60.86256pt too wide) in paragraph at lines 327--331
+\OML/cmm/m/it/10 flatten\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 io[]ib \OT1/cmr/m/n/1
+0 :
+ []
+
+
+Overfull \hbox (264.40842pt too wide) in paragraph at lines 327--331
+\OML/cmm/m/it/10 format\OT1/cmr/m/n/10 (" []\OML/cmm/m/it/10 p []p\OT1/cmr/m/n/
+10 "\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 [\OML/cmm/m/it/10 ClientId; Id\OT1/cmr/m
+/n/10 ]))\OML/cmm/m/it/10 ; []$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.334 c
+       hannel_id(ChannelName) ->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.334 channel_
+              id(ChannelName) ->
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.337 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (121.24402pt too wide) in paragraph at lines 334--337
+[]$[]\OML/cmm/m/it/10 d\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ChannelName\OT1/cmr/m/
+n/10 )\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (17.26382pt too wide) in paragraph at lines 334--337
+\OML/cmm/m/it/10 S \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (25.16731pt too wide) in paragraph at lines 334--337
+\OML/cmm/m/it/10 lists \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (96.837pt too wide) in paragraph at lines 334--337
+\OML/cmm/m/it/10 foldl\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 fun\OT1/cmr/m/n/10 (\OM
+L/cmm/m/it/10 S; Acc\OT1/cmr/m/n/10 )\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (24.6541pt too wide) in paragraph at lines 334--337
+\OML/cmm/m/it/10 io[]ib \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (80.58118pt too wide) in paragraph at lines 334--337
+\OML/cmm/m/it/10 format\OT1/cmr/m/n/10 (" []\OML/cmm/m/it/10 p\OT1/cmr/m/n/10 "
+\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 [\OML/cmm/m/it/10 S\OT1/cmr/m/n/10 ]) +
+ []
+
+
+Overfull \hbox (218.13905pt too wide) in paragraph at lines 334--337
+\OT1/cmr/m/n/10 +\OML/cmm/m/it/10 Accend; \OT1/cmr/m/n/10 ""\OML/cmm/m/it/10 ; 
+ChannelName\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; list[]o[]nteger\OT1/cmr/m/n/10 (
+\OML/cmm/m/it/10 lists \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (53.47237pt too wide) in paragraph at lines 334--337
+\OML/cmm/m/it/10 flatten\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 S\OT1/cmr/m/n/10 ))\O
+ML/cmm/m/it/10 :$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.344 r
+       equest(ClientName, Msg) ->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.345     genserver:request(to_
+                               atom(ClientName), Msg, 100000). % must be gre...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.346 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 344--346
+[]
+ []
+
+
+Overfull \hbox (152.62233pt too wide) in paragraph at lines 344--346
+[]\OML/cmm/m/it/10 tom\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ClientName\OT1/cmr/m/n/
+10 )\OML/cmm/m/it/10 ; Msg; \OT1/cmr/m/n/10 100000)\OML/cmm/m/it/10 :$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.348 c
+       atch_fatal(ClientName, Panel, Cmd) ->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.348 catch_
+            fatal(ClientName, Panel, Cmd) ->
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.355 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (182.93427pt too wide) in paragraph at lines 348--355
+[]$[]\OML/cmm/m/it/10 atal\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; Panel; 
+Cmd\OT1/cmr/m/n/10 )\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (181.47266pt too wide) in paragraph at lines 348--355
+\OML/cmm/m/it/10 casecatch\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Cmd\OT1/cmr/m/n/10 
+())\OML/cmm/m/it/10 of[]\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (196.01561pt too wide) in paragraph at lines 348--355
+\OML/cmm/m/it/10 fatal[]ialog\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Panel; Reason\OT
+1/cmr/m/n/10 ); []\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (241.71059pt too wide) in paragraph at lines 348--355
+\OML/cmm/m/it/10 write[]hannel\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 with[]abel\OT1/
+cmr/m/n/10 (\OML/cmm/m/it/10 ClientName; \OT1/cmr/m/n/10 ?\OML/cmm/m/it/10 SYST
+EM\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 " \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (32.72914pt too wide) in paragraph at lines 348--355
+\OML/cmm/m/it/10 Error \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 348--355
+\OT1/cmr/m/n/10 " +
+ []
+
+
+Overfull \hbox (112.89824pt too wide) in paragraph at lines 348--355
+\OT1/cmr/m/n/10 +\OML/cmm/m/it/10 Msg\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; error\
+OT1/cmr/m/n/10 ; \OML/cmm/m/it/10 Result\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+
+ []
+
+
+Overfull \hbox (48.17145pt too wide) in paragraph at lines 348--355
+\OML/cmm/m/it/10 Resultend:$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.357 t
+       o_atom(String) ->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.357 to_
+         atom(String) ->
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.359 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (97.87198pt too wide) in paragraph at lines 357--359
+[]$[]\OML/cmm/m/it/10 tom\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 String\OT1/cmr/m/n/1
+0 )\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (85.60884pt too wide) in paragraph at lines 357--359
+\OML/cmm/m/it/10 list[]o[]tom\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 String\OT1/cmr/m
+/n/10 )\OML/cmm/m/it/10 :$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.362 l
+       eave_channel(ClientName, Panel, Channel) ->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.362 leave_
+            channel(ClientName, Panel, Channel) ->
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+)
+! Emergency stop.
+<*> /home/linus/Projekt/TDA383/cchat/gui.erl
+                                            
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 13 strings out of 495000
+ 337 string characters out of 6181169
+ 60510 words of memory out of 5000000
+ 3343 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 18i,4n,12p,173b,119s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
