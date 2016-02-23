@@ -1,0 +1,7 @@
+PWD /home/linus/Projekt/TDA383/Labb2/src
+INPUT /etc/texmf/web2c/texmf.cnf
+INPUT /usr/share/texmf/web2c/texmf.cnf
+INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
+INPUT /home/linus/Projekt/TDA383/Labb2/src/Train.java
+OUTPUT /home/linus/Projekt/TDA383/Labb2/src/Train.log

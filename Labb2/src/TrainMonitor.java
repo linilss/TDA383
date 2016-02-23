@@ -29,10 +29,9 @@ class TrainMonitor {
 	}
 
 	public boolean tryEnter() throws InterruptedException {
+		boolean retVal;
 		lock.lock();
 		try {
-			private retVal;
-
 			if(isClear) {	
 				isClear = false; 
 				retVal = true;

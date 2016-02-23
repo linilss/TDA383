@@ -78,6 +78,8 @@ public class Train extends Thread {
 				}
 		}catch(CommandException e) {
 			e.printStackTrace();
+		}catch(InterruptedException e) {
+			e.printStackTrace();
 		}
 	}
 
