@@ -17,12 +17,14 @@ initial_state(ServerName) ->
 %% current state), performing the needed actions, and returning a tuple
 %% {reply, Reply, NewState}, where Reply is the reply to be sent to the client
 %% and NewState is the new state of the server.
-handle(St, {connect, {Nick, Pid}}) -> 
-	NewState = St#server_st{users = [{Nick, Pid} | St#server_st.users]},
+handle(St, {connect, Server, {Nick, Pid}}) -> 
+	NewState = St#server_st{name = Server, users=[{Nick,Pid} |St#server_st.users]},
+	io:fwrite("Hej"),
 	{reply, ok, NewState};
 
-handle(St, {disconnect, Nick}) ->
-	{reply, disconnect, St};
+handle(St, {disconnect, {Nick, Pid}}) ->
+	NewState = St#server_st{users = lists:delete({Nick, Pid}, St#server_st.users)},
+	{reply, disconnect, NewState};
 
 handle(St, {join, Nick}) ->
 	{reply, join, St};

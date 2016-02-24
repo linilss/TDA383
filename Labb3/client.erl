@@ -1,5 +1,5 @@
 -module(client).
--export([handle/2, initial_state/2]).
+-export([handle/2, initial_state/2, user/1]).
 -include_lib("./defs.hrl").
 
 %% inititial_state/2 and handle/2 are used togetger with the genserver module,
@@ -25,25 +25,21 @@ initial_state(Nick, GUIName) ->
 %% Connect to server
 handle(St, {connect, Server}) ->
     Pid = self(),
+
     Data = {connect, St#client_st.server,Pid},
     io:fwrite("Client is sending: ~p~n", [Data]),
     ServerAtom = list_to_atom(Server),
-    Response = genserver:request(ServerAtom, Data),
+    Response = genserver:request(ServerAtom, {connect, Server, user(St)}),
     io:fwrite("Client received: ~p~n", [Response]),
     {reply, ok, St#client_st{server = ServerAtom}} ;
 
 %% Disconnect from server
 handle(St, disconnect) ->
-    Pid = self(),
-    Data = {disconnect, St#client_st.nick, Pid},
-    {reply, ok, St#client_st{server = none}} ;
+    {reply, ok, St#client_st{server = none}};
 
 % Join channel
 handle(St, {join, Channel}) ->
-    Pid = self(),
-    Data = {join, St#client_st.gui, Channel },
-
-    {reply, ok, St} ;
+    {reply, ok, St};
 
 %% Leave channel
 handle(St, {leave, Channel}) ->
@@ -70,3 +66,6 @@ handle(St, {nick, Nick}) ->
 handle(St = #client_st { gui = GUIName }, {incoming_msg, Channel, Name, Msg}) ->
     gen_server:call(list_to_atom(GUIName), {msg_to_GUI, Channel, Name++"> "++Msg}),
     {reply, ok, St}.
+
+user(St) ->
+    {St#client_st.nick, self()}.
