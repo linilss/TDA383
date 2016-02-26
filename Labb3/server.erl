@@ -19,27 +19,37 @@ initial_state(ServerName) ->
 %% and NewState is the new state of the server.
 handle(St, {connect, Server, {Nick, Pid}}) -> 
 	NewState = St#server_st{name = Server, users=[{Nick,Pid} |St#server_st.users]},
-	io:fwrite("Hej"),
+	io:fwrite("Conn ~n"),
 	{reply, ok, NewState};
 
 handle(St, {disconnect, {Nick, Pid}}) ->
+	io:fwrite("Dis ~n"),
 	NewState = St#server_st{users = lists:delete({Nick, Pid}, St#server_st.users)},
 	{reply, disconnect, NewState};
 
-handle(St, {join, Nick}) ->
-	{reply, join, St};
+handle(St, {join, Channel, {Nick, Pid}}) ->
+	io:fwrite("Join ~n"),
+    NewState = St#server_st{channel = [[Channel] | St#server_st.channel],
+    	users=[{Nick,Pid} | St#server_st.users]},
+	{reply, join, NewState};
 
-handle(St, {leave}) ->
-	{reply, leave, St};
+handle(St, {leave, Channel, {Nick, Pid}}) ->
+	io:fwrite("leave.....111s"),
+	NewState = St#server_st{users=lists:delete({Nick,Pid}, St#server_st.users),
+	 	channel = lists:delete(Channel, St#server_st.channel)},
+	{reply, leave, NewState};
 
-handle(St, {msg_from_GUI}) ->
+handle(St, {msg_from_GUI, Channel, Msg, {Nick,Pid}}) ->
+
 	{reply, msg_from_GUI, St};
 
 handle(St, {whoami}) ->
 	{reply, whoami, St};
 
-handle(St, {nick}) ->
-	{reply, nick, St};
+handle(St, {nick, NickNew, {NickOld, Pid}}) ->
+	NewState = St#server_st{users=
+		[{NickNew,Pid} | lists:delete({NickOld,Pid}, St#server_st.users)]},
+	{reply, nick, NewState};
 
 
 handle(St, Request) ->

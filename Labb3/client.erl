@@ -30,37 +30,50 @@ handle(St, {connect, Server}) ->
     io:fwrite("Client is sending: ~p~n", [Data]),
     ServerAtom = list_to_atom(Server),
     Response = genserver:request(ServerAtom, {connect, Server, user(St)}),
-    io:fwrite("Client received: ~p~n", [Response]),
+    io:fwrite("Client received: ~p~n", [ServerAtom]),
     {reply, ok, St#client_st{server = ServerAtom}} ;
 
 %% Disconnect from server
 handle(St, disconnect) ->
+
+    Response = genserver:request(St#client_st.server, {disconnect, user(St)}),
+    io:fwrite("Client recieved ~p ~n", [Response]),
     {reply, ok, St#client_st{server = none}};
 
 % Join channel
 handle(St, {join, Channel}) ->
-    {reply, ok, St};
+    ServerAtom = St#client_st.server,
+    Response = genserver:request(ServerAtom, {join, Channel, user(St)}),
+    NewState = St#client_st{channel = [[Channel] | St#client_st.channel]},
+    {reply, ok, NewState};
 
 %% Leave channel
 handle(St, {leave, Channel}) ->
-    Pid = self(),
-    Data = {leave, St#client_st.gui, Pid},
-    {reply, ok, St} ;
+    ServerAtom = St#client_st.server,
+    Response = genserver:request(ServerAtom, {leave, Channel, user(St)}),
+    NewState = St#client_st{channel = lists:delete(Channel, St#client_st.channel)},
+    {reply, ok, NewState} ;
 
 % Sending messages
 handle(St, {msg_from_GUI, Channel, Msg}) ->
-    Data = {msg_from_GUI, St#client_st.channel, Msg},
+    ServerAtom = St#client_st.server,
+    Data = {msg_from_GUI, Channel, Msg, user(St)},
+    Response = genserver:request(ServerAtom, Data),
+    gen_server:call(list_to_atom(St#client_st.gui), {msg_to_GUI, Channel, St#client_st.nick++"> "++Msg}),
     {reply, ok, St} ;
 
 %% Get current nick
 handle(St, whoami) ->
-    {St#client_st.nick, St};
+    {reply, St#client_st.nick, St};
 
 %% Change nick
+% Fix dis shit! 
+% Kraschar om vi inte är anslutna till server
 handle(St, {nick, Nick}) ->
-    S = 
-    Data = {nick, St#client_st.nick, Nick},
-    {reply, ok, St} ;
+    ServerAtom = St#client_st.server,
+    Response = genserver:request(ServerAtom, {nick, Nick, user(St)}),
+    NewState = St#client_st{nick = Nick},
+    {reply, ok, NewState};
 
 %% Incoming message
 handle(St = #client_st { gui = GUIName }, {incoming_msg, Channel, Name, Msg}) ->
