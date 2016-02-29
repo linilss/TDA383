@@ -80,7 +80,7 @@ handle(St, {msg_from_GUI, Channel, Msg}) ->
 %% Get current nick
 handle(St, whoami) ->
     % {reply, "nick", St} ;
-    {reply, {error, not_implemented, "Not implemented"}, St} ;
+    {reply, St#client_st.nick, St};
 
 %% Change nick
 handle(St, {nick, Nick}) ->

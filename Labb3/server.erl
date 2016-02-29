@@ -39,8 +39,8 @@ handle(St, {leave, Channel, {Nick, Pid}}) ->
 	 	channel = lists:delete(Channel, St#server_st.channel)},
 	{reply, leave, NewState};
 
-handle(St, {msg_from_GUI, Channel, Msg, {Nick,Pid}}) ->
-
+handle(St, {msg_from_GUI, GUIName, Chatroom, Msg}) ->
+    gen_server:call(list_to_atom(GUIName), {msg_to_GUI, Chatroom, Msg}),
 	{reply, msg_from_GUI, St};
 
 handle(St, {whoami}) ->
