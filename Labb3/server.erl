@@ -29,6 +29,8 @@ handle(St, {disconnect, {Nick, Pid}}) ->
 
 handle(St, {join, Channel, {Nick, Pid}}) ->
 	io:fwrite("Join ~n"),
+    gen_server:start(list_to_atom(Channel), channel:initial_state(Channel),
+        fun channel:handle/2),
     NewState = St#server_st{channel = [[Channel] | St#server_st.channel],
     	users=[{Nick,Pid} | St#server_st.users]},
 	{reply, join, NewState};
@@ -39,8 +41,7 @@ handle(St, {leave, Channel, {Nick, Pid}}) ->
 	 	channel = lists:delete(Channel, St#server_st.channel)},
 	{reply, leave, NewState};
 
-handle(St, {msg_from_GUI, GUIName, Chatroom, Msg}) ->
-    gen_server:call(list_to_atom(GUIName), {msg_to_GUI, Chatroom, Msg}),
+handle(St, {msg_from_GUI, Channel, Msg}) ->
 	{reply, msg_from_GUI, St};
 
 handle(St, {whoami}) ->

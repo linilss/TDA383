@@ -54,12 +54,20 @@ handle(St, {leave, Channel}) ->
     NewState = St#client_st{channel = lists:delete(Channel, St#client_st.channel)},
     {reply, ok, NewState} ;
 
+
+
+
+
 % Sending messages
 handle(St, {msg_from_GUI, Channel, Msg}) ->
     ServerAtom = St#client_st.server,
-    Data = {msg_from_GUI, St#client_st.gui, Channel, St#client_st.nick++"> "++Msg},
+    Data = {msg_from_GUI, Channel, St#client_st.nick++"> "++Msg},
     Response = genserver:request(ServerAtom, Data),
-    {reply, ok, St} ;
+    {reply, ok, Data} ;
+
+
+
+
 
 %% Get current nick
 handle(St, whoami) ->

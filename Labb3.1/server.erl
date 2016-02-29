@@ -20,7 +20,7 @@ initial_state(ServerName) ->
 
 handle(St, {connect, Nick, Pid}) ->
 	NewState = St#server_st{user = [{Nick, Pid} | St#server_st.user]},	
-	case lists:member({Nick, Pid}, St#server_st.user) of
+	case lists:keymember(Nick, 1, St#server_st.user) of
 		true ->
 			{reply, already_connected, St};
 		false ->
@@ -33,16 +33,16 @@ handle(St, {disconnect, Nick, Pid}) ->
 		true ->
 			{reply, ok, NewState};
 		false ->
-			{reply, user_not_connected, St}
+			{reply, not_connected, St}
 	end;
 
-handle(St, {join, Nick, Pid, Channel}) ->
+handle(St, {join, Channel}) ->
 	NewState = St#server_st{channel = [Channel | St#server_st.channel]},
 	case lists:member(Channel, St#server_st.channel) of
 		false ->
 			genserver:start(list_to_atom(Channel), channel:initial_state(Channel), fun channel:handle/2),
 			{reply, join, NewState};
-		_ ->
+		true ->
 			{reply, join, St}
 	end.
 
