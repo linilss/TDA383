@@ -28,12 +28,10 @@ handle(St, {leave, Nick, Pid}) ->
 
 % Send message to all clients
 handle(St, {send, Pid, Nick, Msg}) ->
-	io:fwrite("~p~n", [St#channel_st.user]),
+	Data = {incoming_msg, St#channel_st.channel, Nick, Msg},
 	case lists:member({Nick, Pid}, St#channel_st.user) of 
 		true ->
-			spawn(fun() -> lists:foreach(fun({_, Pid}) -> 
-				genserver:request(Pid, {incoming_msg, St#channel_st.channel, Nick, Msg}) end,
-				lists:keydelete(Pid, 2, St#channel_st.user)) end),
+			[spawn(fun() -> genserver:request(X, Data) end) || {_, X} <- St#channel_st.user, X /= Pid],
 			{reply, ok, St};
 		false ->
 			{reply, user_not_existing, St}

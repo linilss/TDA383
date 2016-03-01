@@ -24,8 +24,9 @@ initial_state(Nick, GUIName) ->
 %% Connect to server
 handle(St, {connect, Server}) ->
 	NewState = St#client_st{server = Server},
-	Pid = self(),
-	case catch(genserver:request(list_to_atom(Server), {connect, St#client_st.nick, Pid})) of
+	ServerAtom = list_to_atom(Server),
+	Data = {connect, St#client_st.nick, self()},
+	case catch(genserver:request(ServerAtom, Data)) of
 		ok ->
 	    	{reply, ok, NewState};
 	    already_connected ->
@@ -37,14 +38,15 @@ handle(St, {connect, Server}) ->
 %% Disconnect from server
 handle(St, disconnect) ->
 	NewState = St#client_st{server = not_connected},
-	Pid = self(),
+	Data = {disconnect, St#client_st.nick, self()},
     case St#client_st.channel of
     	[] ->
     		case St#client_st.server of
     			not_connected ->
     				{reply, {error, user_not_connected, "You are not connected to any server!"}, St};
     			_ ->
-    				case catch(genserver:request(list_to_atom(St#client_st.server), {disconnect, St#client_st.nick, Pid})) of
+    				ServerAtom = list_to_atom(St#client_st.server),
+    				case catch(genserver:request(ServerAtom, Data)) of
     					ok ->
     						{reply, ok, NewState};
     					{'EXIT', _} ->
@@ -58,20 +60,23 @@ handle(St, disconnect) ->
 % Join channel
 handle(St, {join, Channel}) ->
 	NewState = St#client_st{channel = [Channel | St#client_st.channel]},
-	Pid = self(),
+	ChannelAtom =list_to_atom(Channel),
+	SData = {join, Channel},
+	CData = {join, St#client_st.nick, self()},
 	case St#client_st.server of
 		not_connected ->
 			{reply, {error, user_not_connected, "You are not connected to any server!"}, St};
 		_ ->
-			case catch(genserver:request(list_to_atom(St#client_st.server), {join, Channel})) of
+			ServerAtom = list_to_atom(St#client_st.server),
+			case catch(genserver:request(ServerAtom, SData)) of
 				join ->
-					case catch(genserver:request(list_to_atom(Channel), {join, St#client_st.nick, Pid})) of	
+					case catch(genserver:request(ChannelAtom, CData)) of	
 						user_already_exists ->
 							{reply, {error, user_already_joined, "User is already connected to channel!"}, St};
 						ok ->
 							{reply, ok, NewState}
 					end;
-				{'EXIT', St} ->
+				{'EXIT', _} ->
 					{reply, {error, server_not_reached, "Server is not reachable!"}, St}
 			end
 	end;			
@@ -79,8 +84,9 @@ handle(St, {join, Channel}) ->
 %% Leave channel
 handle(St, {leave, Channel}) ->
     NewState = St#client_st{channel = lists:delete(Channel, St#client_st.channel)},
-    Pid = self(),
-    case catch(genserver:request(list_to_atom(Channel), {leave, St#client_st.nick, Pid})) of
+    ChannelAtom = list_to_atom(Channel),
+    Data = {leave, St#client_st.nick, self()},
+    case catch(genserver:request(ChannelAtom, Data)) of
     	ok ->
     		{reply, ok, NewState};
     	user_not_existing ->
@@ -89,12 +95,13 @@ handle(St, {leave, Channel}) ->
 
 % Sending messages
 handle(St, {msg_from_GUI, Channel, Msg}) ->
-	Pid = self(),
-	case catch(genserver:request(list_to_atom(Channel), {send, Pid, St#client_st.nick, Msg})) of
+	ChannelAtom = list_to_atom(Channel),
+	Data = {send, self(), St#client_st.nick, Msg},
+	case catch(genserver:request(ChannelAtom, Data)) of
 		ok ->
 			{reply, ok, St};
 		user_not_existing ->
-			{reply, {error, user_not_joined, "User not joined to channel!"}}
+			{reply, {error, user_not_joined, "User not joined to channel!"}, St}
 	end;
 
 %% Get current nick
@@ -108,7 +115,7 @@ handle(St, {nick, Nick}) ->
 		not_connected ->
 			{reply, ok, NewState};
 		_ ->
-			{reply, {error, user_already_connected, atom_to_list(user_already_connected)}, St}
+			{reply, {error, user_already_connected, "Can't change nick while connected to a server!"}, St}
 		end;
 
 %% Incoming message
