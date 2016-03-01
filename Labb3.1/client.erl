@@ -94,9 +94,9 @@ handle(St, {join, Channel}) ->
 
 %% 	Leave channel
 % 	A case statement keeps track of whether the user is connected to the given
-%   channel or not. That is done by requesting an OK from genserver. An atom
-%   user_not_joined is returned if the user is not connected to the given 
-%   channel.
+%   channel or not. That is done by requesting an OK from channel via 
+%	genserver. If the user isn't connected to the channel, it returns an atom 
+%	user_not_existing and thus atom user_not_joined is returned to GUI.
 
 handle(St, {leave, Channel}) ->
     NewState = St#client_st{channel = lists:delete(Channel, St#client_st.channel)},
@@ -112,7 +112,8 @@ handle(St, {leave, Channel}) ->
 % Sending messages
 %	Passes Data to the Channel, through genserver, to be computed. If the user
 % 	is not connected to the server it tries to print in, an atom 
-% 	user_not_joined is returned from channel, otherwise ok.
+% 	user_not_existing is returned from channel and user_not_joined is 
+%	returned to GUI, otherwise ok is returned to GUI.
 
 handle(St, {msg_from_GUI, Channel, Msg}) ->
 	ChannelAtom = list_to_atom(Channel),
