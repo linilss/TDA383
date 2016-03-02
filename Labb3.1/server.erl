@@ -18,8 +18,10 @@ initial_state(ServerName) ->
 %% {reply, Reply, NewState}, where Reply is the reply to be sent to the client
 %% and NewState is the new state of the server.
 
+% Connect to server
 handle(St, {connect, Nick, Pid}) ->
-	NewState = St#server_st{user = [{Nick, Pid} | St#server_st.user]},	
+	NewState = St#server_st{user = [{Nick, Pid} | St#server_st.user]},
+	% Checks if nick is already taken	
 	case lists:keymember(Nick, 1, St#server_st.user) of
 		true ->
 			{reply, already_connected, St};
@@ -27,8 +29,10 @@ handle(St, {connect, Nick, Pid}) ->
 			{reply, ok, NewState}
 	end;
 
+% Disconnect from server
 handle(St, {disconnect, Nick, Pid}) ->
 	NewState = St#server_st{user = lists:delete({Nick, Pid}, St#server_st.user)},
+	% Checks if the user exists in server list
 	case lists:member({Nick, Pid}, St#server_st.user) of
 		true ->
 			{reply, ok, NewState};
@@ -36,10 +40,13 @@ handle(St, {disconnect, Nick, Pid}) ->
 			{reply, not_connected, St}
 	end;
 
+% Join channel
 handle(St, {join, Channel}) ->
 	NewState = St#server_st{channel = [Channel | St#server_st.channel]},
+	% Checks if the channel already exists or should creat a new one
 	case lists:member(Channel, St#server_st.channel) of
 		false ->
+			% Starts a new channel
 			genserver:start(list_to_atom(Channel), channel:initial_state(Channel), fun channel:handle/2),
 			{reply, join, NewState};
 		true ->

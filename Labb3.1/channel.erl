@@ -9,6 +9,7 @@ initial_state(Channel) ->
 % User connect
 handle(St, {join, Nick, Pid}) ->
 	NewState = St#channel_st{user = [{Nick, Pid} | St#channel_st.user]},
+	% Checks if the nick is already taken
 	case lists:keymember(Nick, 1, St#channel_st.user) of
 		true ->
 			{reply, user_already_exists, St};
@@ -19,6 +20,7 @@ handle(St, {join, Nick, Pid}) ->
 % User disconnect
 handle(St, {leave, Nick, Pid}) ->
 	NewState = St#channel_st{user = lists:delete({Nick, Pid}, St#channel_st.user)},
+	% Checks if the user exists in channel list
 	case lists:member({Nick, Pid}, St#channel_st.user) of
 		true ->
 			{reply, ok, NewState};
@@ -29,8 +31,10 @@ handle(St, {leave, Nick, Pid}) ->
 % Send message to all clients
 handle(St, {send, Pid, Nick, Msg}) ->
 	Data = {incoming_msg, St#channel_st.channel, Nick, Msg},
+	% Checks if the user exists in channel list
 	case lists:member({Nick, Pid}, St#channel_st.user) of 
 		true ->
+			% Spawns a list of every process except for the person that sends the message 
 			[spawn(fun() -> genserver:request(X, Data) end) || {_, X} <- St#channel_st.user, X /= Pid],
 			{reply, ok, St};
 		false ->
